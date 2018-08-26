@@ -6,6 +6,10 @@
 
 leetcode 题库答案 JavaScript 版
 
+每道题目下面都放了一些解题思路，所以查看答案前可以尝试借助解题思路的引导来完成你的解答，最后再去看答案
+
+为了确保每个答案的正确性，采用了 mocha 集成测试
+
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
 | [1](https://leetcode.com/problems/two-sum/description/) | [两数相加](https://github.com/suanmei/leetcode-js/tree/master/algorithms/two-sum) | [JavaScript](https://github.com/suanmei/leetcode-js/blob/master/algorithms/two-sum/two-sum.js) | Easy
